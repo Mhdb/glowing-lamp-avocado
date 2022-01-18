@@ -25,12 +25,15 @@
   },
   "homepage": "https://github.com/marcamos/jet#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "autoprefixer": "^10.3.7",
-    "cssnano": "^5.0.8",
-    "postcss": "^8.3.9",
-    "postcss-cli": "^9.0.1",
+    "@11ty/eleventy": "^1.0.0",
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.0.15",
+    "postcss": "^8.4.5",
+    "postcss-cli": "^9.1.0",
     "rimraf": "^3.0.2",
-    "tailwindcss": "^2.2.16"
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "@11ty/eleventy-upgrade-help": "^1.0.1"
   }
 }
